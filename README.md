@@ -4,9 +4,15 @@
 
 Data was collected by two kaggle dataset 
 
+
+
 dataset 1: <a>https://www.kaggle.com/datasets/sshikamaru/car-object-detection</a>
+
+
 dataset 2: <a>https://www.kaggle.com/datasets/farzadnekouei/top-view-vehicle-detection-image-dataset/data</a>
 
+
+# trained model: https://drive.google.com/file/d/1Aqk769C6iIBpKZWGYcD-_O1k5ajxQxGa/view?usp=sharing
 
 
 Both datesets are needed preprocessing to feed tensorflow model.

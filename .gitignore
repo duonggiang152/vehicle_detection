@@ -89,3 +89,5 @@ desktop.ini
 #remove unessary file
 trained_model/*
 exported_model/*
+
+*.zip
