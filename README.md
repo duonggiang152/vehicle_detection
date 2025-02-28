@@ -27,3 +27,4 @@ CLIs folder hold script for convert coco format annotation to TFRecord which are
 object_detection_built note book contains model detail, way to train model
 
 tracking_car note book contains way to use object detection model as part of DEEP SORT tracking algorithm
+![image](https://github.com/user-attachments/assets/88bcc5d1-3c99-4619-b02f-56eaa1ef7087)
